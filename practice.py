@@ -1,1 +1,1 @@
-foods = {"banana":4, "chocolat}
+foods = {"banana":4, "chocolate}
